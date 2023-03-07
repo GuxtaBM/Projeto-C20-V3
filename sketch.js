@@ -59,8 +59,7 @@ function setup(){
     rotator2 = Bodies.rectangle(250,200,150,20,rotator_options);
     World.add(world,rotator2);
 
-    rotator3 = Bodies.rectangle(250,200,150,20,rotator_options);
-    World.add(world,rotator3);
+//
 
     //estilizando os corpos aqui
     fill("brown");
